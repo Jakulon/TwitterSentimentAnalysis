@@ -5,11 +5,11 @@ import csv
 
 # AUTHENTICATION DETAILS IN PLAIN TEXT :-/
 # remote them before upload to github !!!!!!!!!!!!
-consumer_key = '5ihJ4lbbFRt34ewdsbFa4msb8LpAPxG'
-consumer_secret = 'MjunPB3eRxZeNFLtr4wedswgHngc9nykrqbAO9fQFZyuDqassd3YcxHxY'
+consumer_key = '***'
+consumer_secret = '***'
 
-access_token = '164333082-I7xVhNPexst234rfedcX0UYvJXhbLE6YRoLvrX2pVKa4tepRk'
-access_token_secret = 'CTS0an4MpCoq2342feqwdsTQHJVEJst9Juqj6LR1ElipZCVgOU64ra'
+access_token = '***'
+access_token_secret = '***'
 
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
